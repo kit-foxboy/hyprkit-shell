@@ -16,10 +16,14 @@ This project is licensed under the do whatever the heck you want with it but cre
 
 ## Contacts and Socials
 
-Kit Kabbit - vulpineinteractive@gmail.com
-Bluesky - @kitkabbit.bsky.social
-Discord - @kitkabbit
-Twitch - https://twitch.tv/teamsnowdog
+Kit Kabbit - vulpineinteractive@gmail.com  
+
+Bluesky - @kitkabbit.bsky.social  
+
+Discord - @kitkabbit  
+
+Twitch - https://twitch.tv/teamsnowdog  
+
 The Team Snowdog Server - https://discord.gg/qC8pU4UST5
 YouTube Channel - https://www.youtube.com/@TeamSnowdog
 FurAffinity - https://www.furaffinity.net/user/kitkabbit
