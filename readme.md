@@ -24,8 +24,10 @@ Discord - @kitkabbit
 
 Twitch - https://twitch.tv/teamsnowdog  
 
-The Team Snowdog Server - https://discord.gg/qC8pU4UST5
-YouTube Channel - https://www.youtube.com/@TeamSnowdog
+The Team Snowdog Server - https://discord.gg/qC8pU4UST5  
+
+YouTube Channel - https://www.youtube.com/@TeamSnowdog  
+
 FurAffinity - https://www.furaffinity.net/user/kitkabbit
 
 ## Hyprkit dotfile management systems
